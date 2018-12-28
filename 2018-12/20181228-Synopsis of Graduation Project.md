@@ -1,7 +1,6 @@
 ## Title: Deep Learning on Edge Devices by Deep Compression
 ### Subtitle: a case study on medical image analysis on mobile phones
 <hr/>
--------
 
 ### Content and Purpose
 Design a U-Net with related algorithm and make it learn from medical images. Then, tune and train it to obatin the model which is capable of analyzing medical images.
