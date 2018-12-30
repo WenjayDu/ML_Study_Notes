@@ -5,7 +5,7 @@
 ### Content and Purpose
 Design a U-Net with related algorithm and make it learn from medical images. Then, tune and train it to obatin the model which is capable of analyzing medical images.
 
-Further work is to compress this model. Because deep neural networks are not only computationally intensive but also memory intensive, mobile devices with limited hardware resources are confronted with difficulities when running models of deep neural networks. Therefore, to enable the target model to be deployed on mobile devices, the model should be compressed to reduce required storage and energy and at the meanwhile, model's accuracy should not be affected.
+Further work is to compress this model. Because deep neural networks are not only computationally intensive but also memory intensive, mobile devices with limited hardware resources are confronted with difficulities when running models of deep neural networks. Therefore, to enable the target model to be deployed on mobile devices, the model should be compressed to reduce required storage and energy and in the meanwhile, model's accuracy should not be affected.
 
 ### Requirements
 #### 1. Skilled in using Python, Docker, CI process
