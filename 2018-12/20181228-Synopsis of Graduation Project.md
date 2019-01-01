@@ -19,7 +19,7 @@ Further work is to compress this model. Because deep neural networks are not onl
 The whole network is based on the U-Net which is an outstanding network proposed in 2015 that can be trained on very few training data sets, especially useful in the biomedical field for thousands of training images are usually beyond reach. To get the well-performing model and compress it, the student on this project should well know about U-Net architechure and be able to use it skillfully. 
 
 #### 3. Knowledge about model compression
-The core part of this project is compressing the trained model to enable it running on edge devices like mobile phones. To achieve a satisfactory compression ratio, the student on this project ought to have a grasp of knowledge about mainstream model compression methods.
+The core part of this project is to compress the trained model to enable it running on edge devices like mobile phones. To achieve a satisfactory compression ratio, the student on this project ought to have a grasp of knowledge about mainstream model compression methods.
 
 ### References(till now)
 1. Olaf Ronneberger, Philipp Fischer, Thomas Brox: U-Net: Convolutional Networks for Biomedical Image Segmentation. 2015.
