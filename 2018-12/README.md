@@ -3,6 +3,7 @@
 This month I have learned about ResNet, U-Net and data augmentation, and a unsupervised learning on the basis of data augmentation(I have not finished reading the paper about it, this paper proves the value of data augmentation for learning invariant features. part2 will be the 20190101 one in the `2019-01` fold).
 
 🎉 Say Goodbye to 2018！
+
 🎉 Say Hello to 2019！
 
 ## References
