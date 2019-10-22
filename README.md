@@ -1,3 +1,3 @@
-# ML_Study_Notes
+# Reading Notes
 
-This repo is used to store my study notes of machine learning.
+Update my reading notes here.
